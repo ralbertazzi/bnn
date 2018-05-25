@@ -1,0 +1,131 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.autopilot
+.apc
+.cproject
+.project
+.settings
+solution1
+.vivado_hls_log_all.xml
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+<<<<<<< HEAD
+=======
+wheels/
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+<<<<<<< HEAD
+*,cover
+=======
+*.cover
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+<<<<<<< HEAD
+# IPython Notebook
+=======
+# Jupyter Notebook
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+<<<<<<< HEAD
+=======
+# SageMath parsed files
+*.sage.py
+
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
+# dotenv
+.env
+
+# virtualenv
+<<<<<<< HEAD
+=======
+.venv
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+<<<<<<< HEAD
+
+# Rope project settings
+.ropeproject
+=======
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+>>>>>>> a12dfef4e603f483e03cd268848bd19444b2a3ff
